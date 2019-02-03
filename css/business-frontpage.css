@@ -97,3 +97,7 @@ footer{
 .column-background-blue{
   background: rgb(131, 180, 164);
 }
+
+#aboutus-picture {
+  width: 100%
+}
