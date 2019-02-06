@@ -77,11 +77,16 @@ h3, h2, h4{
   0.5px 0.5px 0 #121213;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif
-  
+
 }
 
 footer{
   background-color: #191970;
+  color: bisque;
+}
+
+footer p{
+  color: bisque;
 }
 
 #best-home-toronto{
@@ -89,7 +94,7 @@ footer{
   max-height: 100%;
 }
 
-.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>td,
 .table-striped>tbody>tr:nth-child(odd)>th {
   background-color: rgb(158, 192, 214);
 }
