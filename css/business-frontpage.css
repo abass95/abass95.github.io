@@ -92,11 +92,11 @@ h3, h2, h4{
 
 footer{
   background-color: #191970;
-  color: bisque;
+  color: white;
 }
 
 footer p{
-  color: bisque;
+  color: white;
 }
 
 #best-home-toronto{
@@ -139,7 +139,7 @@ footer p{
   background-size: cover;
   background-position: center center;
   width: 100%;
-  height: 75%;
+  height: 100%;
   opacity: 1;
   visibility: inherit;
   z-index: 20;
@@ -179,4 +179,8 @@ footer p{
   opacity: 1;
   visibility: inherit;
   z-index: 20;
+}
+
+.table th {
+  text-align: center;   
 }
