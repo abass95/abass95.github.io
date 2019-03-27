@@ -195,3 +195,12 @@ footer p {
 abbr {
   text-decoration: underline;
 }
+
+.custom-nav li a {
+  color: white;
+
+}
+
+.active {
+  font-weight: 900;
+}
