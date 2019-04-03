@@ -12,6 +12,9 @@ body {
   body {
     padding-top: 56px;
   }
+  #pegasus-logo {
+    padding-top: 45%;
+  }
 }
 
 .business-header {
@@ -54,11 +57,6 @@ body {
   max-width: 100%;
 }
 
-
-/* #navbarResponsive > ul li a {
-  color: gold
-} */
-
 nav {
   background-color: #191970;
 }
@@ -74,14 +72,6 @@ h3, h2, h4 {
 #agent-logo {
   font-weight: 600;
   color: #b3bbc2;
-  font-style: italic;
-  font-family: Arial, Helvetica, sans-serif
-}
-
-#bas-logo {
-  font-weight: 600;
-  color: bisque;
-  text-shadow: -0.5px -0.5px 0 #121213, 0.5px -0.5px 0 #121213, -0.5px 0.5px 0 #121213, 0.5px 0.5px 0 #121213;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif
 }
@@ -189,18 +179,16 @@ footer p {
   opacity: 1;
   visibility: inherit;
   z-index: 20;
-  padding-top: 45%;
 }
 
 abbr {
   text-decoration: underline;
 }
 
-.custom-nav li a {
+.navbar-dark .nav-item .nav-link {
   color: white;
-
 }
 
 .active {
-  font-weight: 900;
+  font-weight: 930;
 }
